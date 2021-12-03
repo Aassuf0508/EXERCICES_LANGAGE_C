@@ -2,6 +2,21 @@
     Exercice 5.1
     Ecrire un algorithme qui demande à l’utilisateur un nombre compris entre 1 et 3 jusqu’à ce 
     que la réponse convienne.
+*/ 
+
+/*
+    Code de base de tout programme en C
+
+    #include <stdlib.h>
+    #include <stdio.h>
+
+    int main(void)
+    {
+    
+        return 0;
+    }
+
+
 */
 
 #include <stdlib.h>
